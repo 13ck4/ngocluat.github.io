@@ -1,6 +1,6 @@
 <?php
 
-  namespace RandomQuotes;
+  namespace macbookpro\ngocluat1;
 
   class RandomQuotes {
 
